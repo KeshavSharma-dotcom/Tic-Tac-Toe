@@ -1,6 +1,6 @@
 # Tic Tac Toe
 
-A sleek, modern, and interactive Tic Tac Toe game built with vanilla HTML, CSS, and JavaScript. This version features a "Premium Edition" aesthetic with glassmorphism effects, smooth animations, and a responsive layout.
+A sleek, modern, and interactive Tic Tac Toe game built with vanilla HTML, CSS, and JavaScript. This version features aesthetic with glassmorphism effects, smooth animations, and a responsive layout.
 
 ## 🚀 How to Run
 
